@@ -2,7 +2,7 @@
 
 A small Python tool that takes a folder of support emails, runs each one through Claude, and produces a structured triage report: category, urgency, sentiment, a one-line summary, a suggested 2-4 sentence reply, and a flag for "needs human review."
 
-Built as a weekend project to explore how far one well-designed prompt and structured JSON output can take a practical AI workflow.
+Built as a weekend project to explore how far one well-designed prompt and structured JSON output can take a practical AI workflow. 
 
 ## Why I built this
 
