@@ -1,0 +1,8 @@
+Subject: Question about API rate limits
+
+Hi team,
+
+I am integrating your API into our backend and ran into rate limit errors. The docs say 100 requests per minute but we are seeing throttling at around 60. Could you confirm the actual limits for the production tier, and whether there is a recommended approach for handling bursty traffic?
+
+Thanks,
+Dev team @ Acme

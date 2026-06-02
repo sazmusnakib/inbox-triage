@@ -1,0 +1,8 @@
+Subject: How to export reports
+
+Hi,
+
+Quick question — is there a way to export the monthly reports as CSV? I can only find PDF export currently.
+
+Thanks,
+Jordan

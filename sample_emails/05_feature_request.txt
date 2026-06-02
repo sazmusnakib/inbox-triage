@@ -1,0 +1,8 @@
+Subject: Feature suggestion — Slack integration
+
+Hey,
+
+Love the product. We would find it really useful if you added a Slack integration so we could get alerts in our team channel instead of email. Any chance this is on the roadmap?
+
+Cheers,
+Priya
