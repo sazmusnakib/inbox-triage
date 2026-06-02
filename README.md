@@ -6,13 +6,7 @@ Built as a weekend project to explore how far one well-designed prompt and struc
 
 ## Why I built this
 
-> [FILL IN — pick the angle that's true for you. Options:
->
-> 1. *"I spent a year as a university lecturer fielding student support emails and noticed how much of triage is repetitive: classify, judge urgency, write a draft reply. I wanted to see how much of that loop Claude could handle if the structure was right."*
->
-> 2. *"I use Claude every day for study work and wanted to move beyond chat: take one well-shaped prompt, plug it into a real workflow, and see what the failure modes are when you commit to running it on real data."*
->
-> 3. *Write your own — 2-3 sentences, your real motivation.*]
+I'm an M.Sc. AI student at FAU Erlangen-Nürnberg and a daily user of Claude in my study workflow. I wanted to move beyond chatting with the model: take one carefully-shaped prompt, plug it into a real pipeline, and see what breaks when you commit to running it on real input. I picked support-email triage because I'd seen the same problem during my year as a university lecturer — most of triaging student emails is repetitive classification, urgency-judging, and drafting a polite reply.
 
 ## What it does
 
