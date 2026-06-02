@@ -13,7 +13,7 @@ from prompts import TRIAGE_PROMPT
 
 load_dotenv()
 
-MODEL = "claude-sonnet-4-5"
+MODEL = "claude-sonnet-4-6"
 
 
 def triage_email(client: Anthropic, email_text: str) -> dict:
