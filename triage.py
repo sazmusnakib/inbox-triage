@@ -73,7 +73,7 @@ def write_summary(results: list[dict], path: Path) -> None:
         lines.append(f"> {r.get('suggested_response', '')}\n\n")
         lines.append("---\n\n")
 
-    path.write_text("".join(lines))
+    path.write_text("".join(lines), encoding="utf-8")
 
 
 def main() -> None:
@@ -90,7 +90,7 @@ def main() -> None:
     results: list[dict] = []
     for email_file in sorted(input_dir.glob("*.txt")):
         print(f"Processing {email_file.name} ...")
-        email_text = email_file.read_text()
+        email_text = email_file.read_text(encoding="utf-8")
         try:
             result = triage_email(client, email_text)
             result["filename"] = email_file.name
